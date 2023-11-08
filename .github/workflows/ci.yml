@@ -24,4 +24,5 @@ jobs:
       - run: pip install mkdocs-material 
       - run: pip install mkdocs_charts_plugin 
       - run: pip install python-markdown-math
+      - run: pip install mkdocs-include-markdown-plugin
       - run: mkdocs gh-deploy --force
