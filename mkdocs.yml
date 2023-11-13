@@ -163,3 +163,4 @@ nav:
   - Blog:
       - posts/index.md
       - Tags: tags.md
+  - Teaching: teaching.md
