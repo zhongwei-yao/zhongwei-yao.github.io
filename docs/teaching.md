@@ -1,5 +1,5 @@
 ---
-disqus: true
+disqus:''
 hide:
   - footer
 ---
