@@ -1,7 +1,7 @@
 ---
-disqus:''
+disqus: ''
 hide:
-  - footer
+    - footer
 ---
 
 # Teaching

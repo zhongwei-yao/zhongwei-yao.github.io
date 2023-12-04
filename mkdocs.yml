@@ -164,3 +164,5 @@ nav:
       - posts/index.md
       - Tags: tags.md
   - Teaching: teaching.md
+  - Readings: 
+    - Handbooks: readings/handbooks.md
