@@ -166,3 +166,6 @@ nav:
   - Teaching: teaching.md
   - Readings: 
     - Handbooks: readings/handbooks.md
+    - Journals: 
+      - 2024: 
+        - January: readings/journals/2024/2024-Jan.md
