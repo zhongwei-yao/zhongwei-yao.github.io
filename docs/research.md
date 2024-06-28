@@ -17,16 +17,19 @@ hide:
 
 > Mutual fund managers increase risk-shifting activities when uncertainty rises.
 
+[Belief dispersion in the Chinese stock market and fund flows](https://www.sciencedirect.com/science/article/pii/S0378426624001663). **_Journal of Banking and Finance_**, forthcoming. (with Yue Fang and Deming Luo).
+
+> We construct a text-based degree of disagreement (DOD) about stock market performance among fund managers using deep learning models.  In the time series, the DOD negatively predicts market returns. Cross-sectional results show that investors correctly perceive the DOD as an overpricing signal and discount fund performance accordingly. Flow-performance sensitivity is diminished during high dispersion periods.
+
 ## 📝 Working Papers
 
 ### In circulation
 
-"[Belief dispersion in the Chinese stock market and fund flows](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4599464)", with Yue Fang and Deming Luo.
+“[Visible hands versus invisible hands: Default risk and stock price crashes in China](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4783414)”, with  Huaigang Long, Cuixia Tao, and Yanjian Zhu.
 
-> We construct a text-based degree of disagreement (DOD) about stock market performance among fund managers using deep learning models.  In the time series, the DOD negatively predicts market returns. In the cross section, fund investors correctly perceive the DOD as an overpricing signal and discount fund performance accordingly. Flow-performance sensitivity is diminished during high dispersion periods.
+> We revisit the default-crash risk relation in the context of China. We find that firms with higher default risk have lower stock price crash risk both in monthly and yearly frequencies. To identify the causal effect, we use the first-ever default event in China's onshore bond market in 2014 as an exogenous shock to the strength of implicit guarantees. The negative relation arises from the active involvement of the government before 2014 and creditors after 2014 in corporate governance. 
 
 ### In progress
 
 1. "Stock market expectations and mutual fund performance", with Yue Fang and Deming Luo.
 2. "Retail investors and mutual fund investment styles", with Yue Fang and Deming Luo.
-3. "Default risk, external governance, and stock price crash risk", with  Huaigang Long, Cuixia Tao, and Yanjian Zhu.
