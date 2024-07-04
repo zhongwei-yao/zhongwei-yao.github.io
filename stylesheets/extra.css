@@ -1,0 +1,43 @@
+:root {
+  --md-primary-fg-color: #D73A65;
+  --md-primary-fg-color--light: #E6196E;
+  --md-primary-fg-color--dark: #76232f;
+
+  --md-accent-fg-color: #E6196E;
+}
+
+/* strong {
+  color: var(--md-primary-fg-color);
+} */
+
+/* Make equations full-width */
+mjx-container {
+  width: 100% !important;
+}
+
+article p a,
+article li a {
+  text-decoration-line: underline;
+  text-decoration-style: dotted;
+  text-underline-offset: 5px;
+  text-decoration-color: var(--md-primary-fg-color--dark);
+}
+
+code,
+pre {
+  font-family: SFMono-Regular, Consolas, Liberation Mono, Menlo, monospace;
+}
+
+h2 {
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid #eaecef;
+}
+
+/* Vega */
+input[type="radio"] {
+  margin-right: 10px;
+}
+
+label {
+  font-weight: normal;
+}
