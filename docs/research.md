@@ -17,7 +17,7 @@ hide:
 
 > Mutual fund managers increase risk-shifting activities when uncertainty rises.
 
-[Belief dispersion in the Chinese stock market and fund flows](https://www.sciencedirect.com/science/article/pii/S0378426624001663). **_Journal of Banking and Finance_**, forthcoming. (with Yue Fang and Deming Luo).
+[Belief dispersion in the Chinese stock market and fund flows](https://www.sciencedirect.com/science/article/pii/S0378426624001663). **_Journal of Banking and Finance_**, 2024, 166, 107252. (with Yue Fang and Deming Luo).
 
 > We construct a text-based degree of disagreement (DOD) about stock market performance among fund managers using deep learning models.  In the time series, the DOD negatively predicts market returns. Cross-sectional results show that investors correctly perceive the DOD as an overpricing signal and discount fund performance accordingly. Flow-performance sensitivity is diminished during high dispersion periods.
 
