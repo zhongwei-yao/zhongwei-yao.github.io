@@ -23,7 +23,7 @@ plugins:
   - include-markdown
   - search
   - charts:
-      vega_theme: default
+      vega_theme_light: default
   # - typeset
   # - meta:
   #     meta_file: '**/.meta.yml'
