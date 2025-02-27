@@ -10,11 +10,11 @@ hide:
 
 Financial Engineering. Winter, 2023. 
 
-Derivatives and Risk Management. Spring & Summer, 2024. 
+Derivatives and Risk Management. Spring & Summer, 2024-2025. 
 
-Investments. Fall & Winter, 2024. 
+Investments. 2024-2025.
 
 ## Graduate
 
-Derivatives and Risk Management. Spring & Summer, 2024. 
+Derivatives and Risk Management. Spring & Summer, 2024-2025. 
 
